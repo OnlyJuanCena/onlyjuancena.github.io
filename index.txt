@@ -9,16 +9,16 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+jjg230001@utdallas.edu
 
 Phone
-+1 (213) 352-2795
++1 (469) 651-3992
 
 Birthday
-June 23, 1982
+December 24, 2003
 
 Location
-Sacramento, California, USA
+Dallas, Texas, USA
 
 # navbar
 
